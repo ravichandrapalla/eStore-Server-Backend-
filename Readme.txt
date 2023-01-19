@@ -1,0 +1,1 @@
+Download both eStore and eStore Server to local computer and run node index.js from this folder. then start estore.
